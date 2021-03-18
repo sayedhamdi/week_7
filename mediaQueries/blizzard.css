@@ -1,0 +1,22 @@
+.logo{
+    width:80px;
+}
+
+.carrousel-nav{
+    font-size:25px;
+    height: 60px;
+    width: 20px;
+    border: 1px solid #263945;
+    background-color: #80343480;
+    cursor: pointer;
+    color: #00aeff;
+    transition: opacity 200ms,color 200ms;
+}
+
+
+.background-container{
+    background :blue;
+    background-position: top center;
+    background-repeat: no-repeat;
+    border-top: 1px solid rgba(255,255,255,.1);
+}
